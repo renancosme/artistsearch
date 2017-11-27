@@ -9,9 +9,10 @@
     <div class="row">
         <div>
             <h2>Searh your artist:</h2>
-            @Html.TextBoxFor(m => m.Name, new { placeholder = "Artist name..." })
-            <br />
-            <input type="submit" class="btn-primary" value="Find" />
+            @Html.TextBoxFor(m => m.Name, new { placeholder = "Artist name..." })            
+            <button class="btn-primary " value="Find"> 
+                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+            </button>            
         </div>
     </div>
 
@@ -50,19 +51,19 @@
             <div class="row">
                 <div>
                     @Html.Label("City: ")
-                    @Html.DisplayText(artistEvent.Venue.City)
+                    @artistEvent.Venue.City
                 </div>
             </div>
             <div class="row">
                 <div>
                     @Html.Label("Country: ")
-                    @Html.DisplayText(artistEvent.Venue.Country)
+                    @artistEvent.Venue.Country
                 </div>
             </div>
             <div class="row">
                 <div>
                     @Html.Label("Date: ")
-                    @Html.DisplayText(artistEvent.DateTime)
+                    @artistEvent.DateTime
                 </div>
             </div>
             <hr />

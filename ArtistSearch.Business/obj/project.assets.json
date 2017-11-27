@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Business\\ArtistSearch.Business.csproj",
+      "projectUniqueName": "C:\\Git\\artistsearch\\ArtistSearch.Business\\ArtistSearch.Business.csproj",
       "projectName": "ArtistSearch.Business",
-      "projectPath": "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Business\\ArtistSearch.Business.csproj",
-      "outputPath": "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Business\\obj\\",
+      "projectPath": "C:\\Git\\artistsearch\\ArtistSearch.Business\\ArtistSearch.Business.csproj",
+      "outputPath": "C:\\Git\\artistsearch\\ArtistSearch.Business\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

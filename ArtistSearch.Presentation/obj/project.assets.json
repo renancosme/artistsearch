@@ -10774,10 +10774,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Presentation\\ArtistSearch.Presentation.csproj",
+      "projectUniqueName": "C:\\Git\\artistsearch\\ArtistSearch.Presentation\\ArtistSearch.Presentation.csproj",
       "projectName": "ArtistSearch.Presentation",
-      "projectPath": "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Presentation\\ArtistSearch.Presentation.csproj",
-      "outputPath": "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Presentation\\obj\\",
+      "projectPath": "C:\\Git\\artistsearch\\ArtistSearch.Presentation\\ArtistSearch.Presentation.csproj",
+      "outputPath": "C:\\Git\\artistsearch\\ArtistSearch.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -10785,11 +10785,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Business\\ArtistSearch.Business.csproj": {
-              "projectPath": "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Business\\ArtistSearch.Business.csproj"
+            "C:\\Git\\artistsearch\\ArtistSearch.Business\\ArtistSearch.Business.csproj": {
+              "projectPath": "C:\\Git\\artistsearch\\ArtistSearch.Business\\ArtistSearch.Business.csproj"
             },
-            "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Infrastructure\\ArtistSearch.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Infrastructure\\ArtistSearch.Infrastructure.csproj"
+            "C:\\Git\\artistsearch\\ArtistSearch.Infrastructure\\ArtistSearch.Infrastructure.csproj": {
+              "projectPath": "C:\\Git\\artistsearch\\ArtistSearch.Infrastructure\\ArtistSearch.Infrastructure.csproj"
             }
           }
         }

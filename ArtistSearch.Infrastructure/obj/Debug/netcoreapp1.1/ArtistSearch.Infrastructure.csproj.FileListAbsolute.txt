@@ -7,3 +7,12 @@ c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.I
 c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.Infrastructure\obj\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.pdb
 C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Infrastructure\bin\Debug\netcoreapp1.1\ArtistSearch.Business.dll
 C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Infrastructure\bin\Debug\netcoreapp1.1\ArtistSearch.Business.pdb
+C:\Git\artistsearch\ArtistSearch.Infrastructure\bin\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.deps.json
+C:\Git\artistsearch\ArtistSearch.Infrastructure\bin\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.dll
+C:\Git\artistsearch\ArtistSearch.Infrastructure\bin\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.pdb
+C:\Git\artistsearch\ArtistSearch.Infrastructure\bin\Debug\netcoreapp1.1\ArtistSearch.Business.dll
+C:\Git\artistsearch\ArtistSearch.Infrastructure\bin\Debug\netcoreapp1.1\ArtistSearch.Business.pdb
+C:\Git\artistsearch\ArtistSearch.Infrastructure\obj\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Git\artistsearch\ArtistSearch.Infrastructure\obj\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.AssemblyInfo.cs
+C:\Git\artistsearch\ArtistSearch.Infrastructure\obj\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.dll
+C:\Git\artistsearch\ArtistSearch.Infrastructure\obj\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.pdb

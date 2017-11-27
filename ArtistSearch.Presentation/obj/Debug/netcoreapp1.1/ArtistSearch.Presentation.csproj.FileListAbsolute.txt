@@ -11,3 +11,16 @@ C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.P
 C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.pdb
 C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.dll
 C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.pdb
+C:\Git\artistsearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Presentation.deps.json
+C:\Git\artistsearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Presentation.runtimeconfig.json
+C:\Git\artistsearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Presentation.runtimeconfig.dev.json
+C:\Git\artistsearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Presentation.dll
+C:\Git\artistsearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Presentation.pdb
+C:\Git\artistsearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Business.dll
+C:\Git\artistsearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.dll
+C:\Git\artistsearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Business.pdb
+C:\Git\artistsearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.pdb
+C:\Git\artistsearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.csprojResolveAssemblyReference.cache
+C:\Git\artistsearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.AssemblyInfo.cs
+C:\Git\artistsearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.dll
+C:\Git\artistsearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.pdb

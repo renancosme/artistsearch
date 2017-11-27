@@ -7464,10 +7464,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Infrastructure\\ArtistSearch.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Git\\artistsearch\\ArtistSearch.Infrastructure\\ArtistSearch.Infrastructure.csproj",
       "projectName": "ArtistSearch.Infrastructure",
-      "projectPath": "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Infrastructure\\ArtistSearch.Infrastructure.csproj",
-      "outputPath": "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Infrastructure\\obj\\",
+      "projectPath": "C:\\Git\\artistsearch\\ArtistSearch.Infrastructure\\ArtistSearch.Infrastructure.csproj",
+      "outputPath": "C:\\Git\\artistsearch\\ArtistSearch.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -7475,8 +7475,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Business\\ArtistSearch.Business.csproj": {
-              "projectPath": "C:\\Users\\RENAN\\Documents\\Visual Studio 2017\\Projects\\ArtistSearch\\ArtistSearch.Business\\ArtistSearch.Business.csproj"
+            "C:\\Git\\artistsearch\\ArtistSearch.Business\\ArtistSearch.Business.csproj": {
+              "projectPath": "C:\\Git\\artistsearch\\ArtistSearch.Business\\ArtistSearch.Business.csproj"
             }
           }
         }
