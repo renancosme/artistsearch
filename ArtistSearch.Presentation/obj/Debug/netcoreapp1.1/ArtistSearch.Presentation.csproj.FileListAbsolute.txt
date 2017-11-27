@@ -1,0 +1,13 @@
+c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Presentation.deps.json
+c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Presentation.runtimeconfig.json
+c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Presentation.runtimeconfig.dev.json
+c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.csprojResolveAssemblyReference.cache
+c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.AssemblyInfo.cs
+C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Presentation.dll
+C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Presentation.pdb
+C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Business.dll
+C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.dll
+C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Business.pdb
+C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\bin\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.pdb
+C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.dll
+C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.pdb

@@ -1,0 +1,7 @@
+c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.Business\bin\Debug\netcoreapp1.1\ArtistSearch.Business.deps.json
+c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.Business\bin\Debug\netcoreapp1.1\ArtistSearch.Business.dll
+c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.Business\bin\Debug\netcoreapp1.1\ArtistSearch.Business.pdb
+c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.Business\obj\Debug\netcoreapp1.1\ArtistSearch.Business.AssemblyInfo.cs
+c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.Business\obj\Debug\netcoreapp1.1\ArtistSearch.Business.dll
+c:\users\renan\documents\visual studio 2017\Projects\ArtistSearch\ArtistSearch.Business\obj\Debug\netcoreapp1.1\ArtistSearch.Business.pdb
+C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.Business\obj\Debug\netcoreapp1.1\ArtistSearch.Business.csprojResolveAssemblyReference.cache

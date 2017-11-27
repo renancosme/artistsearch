@@ -1,0 +1,35 @@
+﻿{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:36940/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "projectName": "ArtistSearchByRenan",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "bandsintownAPI": "https://rest.bandsintown.com"
+      },
+      "projectName": "ArtistSearchByRenan",
+      "bandsintownAPI": "https://rest.bandsintown.com"
+    },
+    "ArtistSearch.Presentation": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "projectName": "ArtistSearchByRenan",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "bandsintownAPI": "https://rest.bandsintown.com"
+      },
+      "projectName": "ArtistSearchByRenan",
+      "applicationUrl": "http://localhost:36941",
+      "bandsintownAPI": "https://rest.bandsintown.com"
+    }
+  }
+}
