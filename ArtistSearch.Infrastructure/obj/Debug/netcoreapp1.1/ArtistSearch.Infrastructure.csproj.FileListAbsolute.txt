@@ -13,6 +13,8 @@ C:\Git\artistsearch\ArtistSearch.Infrastructure\bin\Debug\netcoreapp1.1\ArtistSe
 C:\Git\artistsearch\ArtistSearch.Infrastructure\bin\Debug\netcoreapp1.1\ArtistSearch.Business.dll
 C:\Git\artistsearch\ArtistSearch.Infrastructure\bin\Debug\netcoreapp1.1\ArtistSearch.Business.pdb
 C:\Git\artistsearch\ArtistSearch.Infrastructure\obj\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Git\artistsearch\ArtistSearch.Infrastructure\obj\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Git\artistsearch\ArtistSearch.Infrastructure\obj\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.AssemblyInfoInputs.cache
 C:\Git\artistsearch\ArtistSearch.Infrastructure\obj\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.AssemblyInfo.cs
 C:\Git\artistsearch\ArtistSearch.Infrastructure\obj\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.dll
 C:\Git\artistsearch\ArtistSearch.Infrastructure\obj\Debug\netcoreapp1.1\ArtistSearch.Infrastructure.pdb

@@ -24,3 +24,5 @@ C:\Git\artistsearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSear
 C:\Git\artistsearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.AssemblyInfo.cs
 C:\Git\artistsearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.dll
 C:\Git\artistsearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.pdb
+C:\Git\artistsearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.csproj.CoreCompileInputs.cache
+C:\Git\artistsearch\ArtistSearch.Presentation\obj\Debug\netcoreapp1.1\ArtistSearch.Presentation.AssemblyInfoInputs.cache

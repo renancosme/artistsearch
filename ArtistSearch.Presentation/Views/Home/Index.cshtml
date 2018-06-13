@@ -8,20 +8,20 @@
 {    
     <div class="row">
         <div>
-            <h2>Searh your artist:</h2>
+            <h2>Search your artist:</h2>
             @Html.TextBoxFor(m => m.Name, new { placeholder = "Artist name..." })            
             <button class="btn-primary " value="Find"> 
                     <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
             </button>            
         </div>
     </div>
-
+    
     @if (Model.Artist != null)
     {
         <h3>Artist information</h3>        
         <div class="row">
             <div>                
-                <image src="@Model.Artist.Image_Url"></image>
+                <image id="image_url" src="@Model.Artist.Image_Url"></image>
             </div>
             <br />
         </div>
@@ -34,7 +34,7 @@
         <div class="row">
             <div>
                 @Html.Label("Facebook URL: ")
-                @Model.Artist.Facebook_Page_Url
+                <a href="@Model.Artist.Facebook_Page_Url">@Model.Artist.Facebook_Page_Url</a>                
             </div>
         </div>
 

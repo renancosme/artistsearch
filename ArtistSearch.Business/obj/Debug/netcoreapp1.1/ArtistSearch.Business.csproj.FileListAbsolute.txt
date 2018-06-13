@@ -8,7 +8,9 @@ C:\Users\RENAN\Documents\Visual Studio 2017\Projects\ArtistSearch\ArtistSearch.B
 C:\Git\artistsearch\ArtistSearch.Business\bin\Debug\netcoreapp1.1\ArtistSearch.Business.deps.json
 C:\Git\artistsearch\ArtistSearch.Business\bin\Debug\netcoreapp1.1\ArtistSearch.Business.dll
 C:\Git\artistsearch\ArtistSearch.Business\bin\Debug\netcoreapp1.1\ArtistSearch.Business.pdb
-C:\Git\artistsearch\ArtistSearch.Business\obj\Debug\netcoreapp1.1\ArtistSearch.Business.csprojResolveAssemblyReference.cache
+C:\Git\artistsearch\ArtistSearch.Business\obj\Debug\netcoreapp1.1\ArtistSearch.Business.csproj.CoreCompileInputs.cache
+C:\Git\artistsearch\ArtistSearch.Business\obj\Debug\netcoreapp1.1\ArtistSearch.Business.AssemblyInfoInputs.cache
 C:\Git\artistsearch\ArtistSearch.Business\obj\Debug\netcoreapp1.1\ArtistSearch.Business.AssemblyInfo.cs
 C:\Git\artistsearch\ArtistSearch.Business\obj\Debug\netcoreapp1.1\ArtistSearch.Business.dll
 C:\Git\artistsearch\ArtistSearch.Business\obj\Debug\netcoreapp1.1\ArtistSearch.Business.pdb
+C:\Git\artistsearch\ArtistSearch.Business\obj\Debug\netcoreapp1.1\ArtistSearch.Business.csprojResolveAssemblyReference.cache

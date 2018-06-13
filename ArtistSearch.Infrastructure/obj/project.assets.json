@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "Libuv/1.9.1": {
@@ -2393,6 +2393,12 @@
         "framework": ".NETCoreApp,Version=v1.1",
         "dependencies": {
           "Microsoft.NETCore.App": "1.1.2"
+        },
+        "compile": {
+          "bin/placeholder/ArtistSearch.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArtistSearch.Business.dll": {}
         }
       }
     }
@@ -7463,15 +7469,28 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\Git\\artistsearch\\ArtistSearch.Infrastructure\\ArtistSearch.Infrastructure.csproj",
       "projectName": "ArtistSearch.Infrastructure",
       "projectPath": "C:\\Git\\artistsearch\\ArtistSearch.Infrastructure\\ArtistSearch.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\RENAN\\.nuget\\packages\\",
       "outputPath": "C:\\Git\\artistsearch\\ArtistSearch.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\RENAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
@@ -7480,6 +7499,11 @@
             }
           }
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
@@ -7487,12 +7511,12 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "1.1.2",
+            "version": "[1.1.2, )",
             "autoReferenced": true
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "10.0.3"
+            "version": "[10.0.3, )"
           }
         }
       }
